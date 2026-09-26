@@ -98,3 +98,17 @@ This generates `api/episodes.json`. Each frame record contains its timestamp, pe
 ## Copyright
 
 This project contains tooling and metadata. Do not add source video files or extracted copyrighted frames unless their license, public-domain status, or other authorization permits the intended use and redistribution.
+
+
+## Source discovery workflow
+
+The catalog and the actual media source are intentionally separate.
+
+```bash
+python scripts/make_source_queries.py
+python scripts/audit_catalog.py
+```
+
+Review candidate sources in `sources/source_candidates.csv`. Prefer genuine 1080p+ restorations/masters without burned-in subtitles or watermarks. A source may be useful for episode identification or quality comparison without being cleared for redistribution.
+
+The public API should only expose extracted images when `redistribution_allowed` is true. For permission-required sources, keep extraction outputs local/private until the relevant rights are cleared.
