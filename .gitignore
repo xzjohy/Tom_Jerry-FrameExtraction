@@ -5,5 +5,4 @@ venv/
 sources/videos/
 work/
 .DS_Store
-frames/**/*.webp
 frames/**/manifest.json
