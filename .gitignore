@@ -5,4 +5,3 @@ venv/
 sources/videos/
 work/
 .DS_Store
-frames/**/manifest.json
