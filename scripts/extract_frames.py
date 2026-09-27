@@ -103,7 +103,7 @@ def main():
     p.add_argument("--candidates", type=int, default=500)
     args = p.parse_args()
     manifest = extract(args.video, args.output, args.count, args.trim_start,
-                       args.trim_end, args.hash_distance, args.candidates, args.jpeg_quality)
+                       args.trim_end, args.hash_distance, args.candidates)
     print(json.dumps(manifest, ensure_ascii=False))
 
 

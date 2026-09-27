@@ -1,4 +1,372 @@
 {
   "version": 1,
-  "episodes": []
+  "episodes": [
+    {
+      "id": "022-quiet-please",
+      "number": 22,
+      "title": "Quiet Please!",
+      "year": 1945,
+      "series": "Hanna-Barbera / MGM theatrical shorts",
+      "metadata_source_url": "https://en.wikipedia.org/wiki/Tom_and_Jerry_filmography",
+      "video_source_url": null,
+      "video_source_type": null,
+      "resolution": null,
+      "rights_status": "permission-required",
+      "redistribution_allowed": false,
+      "notes": "Video source not selected yet.",
+      "frame_count": 50,
+      "frames": [
+        {
+          "index": 1,
+          "timestamp": 45.0,
+          "file": "001_000045000ms.webp",
+          "phash": "8c8c0ea7674f4dc3",
+          "url_path": "frames/022-quiet-please/001_000045000ms.webp"
+        },
+        {
+          "index": 2,
+          "timestamp": 55.95,
+          "file": "002_000055950ms.webp",
+          "phash": "878707c7436361f9",
+          "url_path": "frames/022-quiet-please/002_000055950ms.webp"
+        },
+        {
+          "index": 3,
+          "timestamp": 66.9,
+          "file": "003_000066900ms.webp",
+          "phash": "d09094a77d79a0f3",
+          "url_path": "frames/022-quiet-please/003_000066900ms.webp"
+        },
+        {
+          "index": 4,
+          "timestamp": 72.74,
+          "file": "004_000072740ms.webp",
+          "phash": "8d2d27f6360622be",
+          "url_path": "frames/022-quiet-please/004_000072740ms.webp"
+        },
+        {
+          "index": 5,
+          "timestamp": 77.85,
+          "file": "005_000077850ms.webp",
+          "phash": "8ee671107e3f3921",
+          "url_path": "frames/022-quiet-please/005_000077850ms.webp"
+        },
+        {
+          "index": 6,
+          "timestamp": 84.42,
+          "file": "006_000084420ms.webp",
+          "phash": "81bc3f230c3c67e3",
+          "url_path": "frames/022-quiet-please/006_000084420ms.webp"
+        },
+        {
+          "index": 7,
+          "timestamp": 90.26,
+          "file": "007_000090260ms.webp",
+          "phash": "8efa43037c6f390c",
+          "url_path": "frames/022-quiet-please/007_000090260ms.webp"
+        },
+        {
+          "index": 8,
+          "timestamp": 98.29,
+          "file": "008_000098290ms.webp",
+          "phash": "910fc7f04f1b346c",
+          "url_path": "frames/022-quiet-please/008_000098290ms.webp"
+        },
+        {
+          "index": 9,
+          "timestamp": 106.32,
+          "file": "009_000106320ms.webp",
+          "phash": "c98dad3696b01e96",
+          "url_path": "frames/022-quiet-please/009_000106320ms.webp"
+        },
+        {
+          "index": 10,
+          "timestamp": 114.35,
+          "file": "010_000114350ms.webp",
+          "phash": "85255fdb27f1c824",
+          "url_path": "frames/022-quiet-please/010_000114350ms.webp"
+        },
+        {
+          "index": 11,
+          "timestamp": 121.65,
+          "file": "011_000121650ms.webp",
+          "phash": "8ff084c45a6e6597",
+          "url_path": "frames/022-quiet-please/011_000121650ms.webp"
+        },
+        {
+          "index": 12,
+          "timestamp": 128.22,
+          "file": "012_000128220ms.webp",
+          "phash": "89c9755a12926db7",
+          "url_path": "frames/022-quiet-please/012_000128220ms.webp"
+        },
+        {
+          "index": 13,
+          "timestamp": 135.52,
+          "file": "013_000135520ms.webp",
+          "phash": "94d563a02abf6b0e",
+          "url_path": "frames/022-quiet-please/013_000135520ms.webp"
+        },
+        {
+          "index": 14,
+          "timestamp": 143.55,
+          "file": "014_000143550ms.webp",
+          "phash": "acf261831f8df813",
+          "url_path": "frames/022-quiet-please/014_000143550ms.webp"
+        },
+        {
+          "index": 15,
+          "timestamp": 151.58,
+          "file": "015_000151580ms.webp",
+          "phash": "85955d9f6ada2c88",
+          "url_path": "frames/022-quiet-please/015_000151580ms.webp"
+        },
+        {
+          "index": 16,
+          "timestamp": 158.15,
+          "file": "016_000158150ms.webp",
+          "phash": "9d1dd8ea671550e2",
+          "url_path": "frames/022-quiet-please/016_000158150ms.webp"
+        },
+        {
+          "index": 17,
+          "timestamp": 163.99,
+          "file": "017_000163990ms.webp",
+          "phash": "cdd893a748cc649e",
+          "url_path": "frames/022-quiet-please/017_000163990ms.webp"
+        },
+        {
+          "index": 18,
+          "timestamp": 170.56,
+          "file": "018_000170560ms.webp",
+          "phash": "c0c04cbd3be970f5",
+          "url_path": "frames/022-quiet-please/018_000170560ms.webp"
+        },
+        {
+          "index": 19,
+          "timestamp": 175.67,
+          "file": "019_000175670ms.webp",
+          "phash": "c66e95668b906f89",
+          "url_path": "frames/022-quiet-please/019_000175670ms.webp"
+        },
+        {
+          "index": 20,
+          "timestamp": 185.16,
+          "file": "020_000185160ms.webp",
+          "phash": "818194b43a7aebeb",
+          "url_path": "frames/022-quiet-please/020_000185160ms.webp"
+        },
+        {
+          "index": 21,
+          "timestamp": 194.65,
+          "file": "021_000194650ms.webp",
+          "phash": "825735c945a71fe8",
+          "url_path": "frames/022-quiet-please/021_000194650ms.webp"
+        },
+        {
+          "index": 22,
+          "timestamp": 201.95,
+          "file": "022_000201950ms.webp",
+          "phash": "91b08eaf0ed93c1e",
+          "url_path": "frames/022-quiet-please/022_000201950ms.webp"
+        },
+        {
+          "index": 23,
+          "timestamp": 209.25,
+          "file": "023_000209250ms.webp",
+          "phash": "c16c94da7235c78e",
+          "url_path": "frames/022-quiet-please/023_000209250ms.webp"
+        },
+        {
+          "index": 24,
+          "timestamp": 216.55,
+          "file": "024_000216550ms.webp",
+          "phash": "91b30e9e326c5cf2",
+          "url_path": "frames/022-quiet-please/024_000216550ms.webp"
+        },
+        {
+          "index": 25,
+          "timestamp": 222.39,
+          "file": "025_000222390ms.webp",
+          "phash": "83e234dd63239b35",
+          "url_path": "frames/022-quiet-please/025_000222390ms.webp"
+        },
+        {
+          "index": 26,
+          "timestamp": 228.23,
+          "file": "026_000228230ms.webp",
+          "phash": "9c9c64e743e0c26f",
+          "url_path": "frames/022-quiet-please/026_000228230ms.webp"
+        },
+        {
+          "index": 27,
+          "timestamp": 234.07,
+          "file": "027_000234070ms.webp",
+          "phash": "9091f6cf0db19e38",
+          "url_path": "frames/022-quiet-please/027_000234070ms.webp"
+        },
+        {
+          "index": 28,
+          "timestamp": 239.91,
+          "file": "028_000239910ms.webp",
+          "phash": "8787c1f070f1727c",
+          "url_path": "frames/022-quiet-please/028_000239910ms.webp"
+        },
+        {
+          "index": 29,
+          "timestamp": 247.94,
+          "file": "029_000247940ms.webp",
+          "phash": "8bb8a37446cd9a33",
+          "url_path": "frames/022-quiet-please/029_000247940ms.webp"
+        },
+        {
+          "index": 30,
+          "timestamp": 253.78,
+          "file": "030_000253780ms.webp",
+          "phash": "d9cfb6b42893442d",
+          "url_path": "frames/022-quiet-please/030_000253780ms.webp"
+        },
+        {
+          "index": 31,
+          "timestamp": 261.08,
+          "file": "031_000261080ms.webp",
+          "phash": "cd9db2b228a2653d",
+          "url_path": "frames/022-quiet-please/031_000261080ms.webp"
+        },
+        {
+          "index": 32,
+          "timestamp": 268.38,
+          "file": "032_000268380ms.webp",
+          "phash": "dbcd33b23c66a118",
+          "url_path": "frames/022-quiet-please/032_000268380ms.webp"
+        },
+        {
+          "index": 33,
+          "timestamp": 274.22,
+          "file": "033_000274220ms.webp",
+          "phash": "d42e0f36e6f494c2",
+          "url_path": "frames/022-quiet-please/033_000274220ms.webp"
+        },
+        {
+          "index": 34,
+          "timestamp": 282.98,
+          "file": "034_000282980ms.webp",
+          "phash": "acb63398cac995c5",
+          "url_path": "frames/022-quiet-please/034_000282980ms.webp"
+        },
+        {
+          "index": 35,
+          "timestamp": 292.47,
+          "file": "035_000292470ms.webp",
+          "phash": "8bb41793086f7ea1",
+          "url_path": "frames/022-quiet-please/035_000292470ms.webp"
+        },
+        {
+          "index": 36,
+          "timestamp": 298.31,
+          "file": "036_000298310ms.webp",
+          "phash": "a9f5171a136d4f82",
+          "url_path": "frames/022-quiet-please/036_000298310ms.webp"
+        },
+        {
+          "index": 37,
+          "timestamp": 306.34,
+          "file": "037_000306340ms.webp",
+          "phash": "b0aacd9598da5a27",
+          "url_path": "frames/022-quiet-please/037_000306340ms.webp"
+        },
+        {
+          "index": 38,
+          "timestamp": 312.91,
+          "file": "038_000312910ms.webp",
+          "phash": "8eae5cc36a9f8065",
+          "url_path": "frames/022-quiet-please/038_000312910ms.webp"
+        },
+        {
+          "index": 39,
+          "timestamp": 326.78,
+          "file": "039_000326780ms.webp",
+          "phash": "a49b919a4a33cd79",
+          "url_path": "frames/022-quiet-please/039_000326780ms.webp"
+        },
+        {
+          "index": 40,
+          "timestamp": 332.62,
+          "file": "040_000332620ms.webp",
+          "phash": "f8bc56c92ac6893a",
+          "url_path": "frames/022-quiet-please/040_000332620ms.webp"
+        },
+        {
+          "index": 41,
+          "timestamp": 338.46,
+          "file": "041_000338460ms.webp",
+          "phash": "c9e935b61692c26d",
+          "url_path": "frames/022-quiet-please/041_000338460ms.webp"
+        },
+        {
+          "index": 42,
+          "timestamp": 347.22,
+          "file": "042_000347220ms.webp",
+          "phash": "dbcbb4b4344d622a",
+          "url_path": "frames/022-quiet-please/042_000347220ms.webp"
+        },
+        {
+          "index": 43,
+          "timestamp": 359.63,
+          "file": "043_000359630ms.webp",
+          "phash": "80e07f7f2722497c",
+          "url_path": "frames/022-quiet-please/043_000359630ms.webp"
+        },
+        {
+          "index": 44,
+          "timestamp": 369.85,
+          "file": "044_000369850ms.webp",
+          "phash": "cacb52b28d9d722c",
+          "url_path": "frames/022-quiet-please/044_000369850ms.webp"
+        },
+        {
+          "index": 45,
+          "timestamp": 375.69,
+          "file": "045_000375690ms.webp",
+          "phash": "87ed31d22ea91cb2",
+          "url_path": "frames/022-quiet-please/045_000375690ms.webp"
+        },
+        {
+          "index": 46,
+          "timestamp": 381.53,
+          "file": "046_000381530ms.webp",
+          "phash": "84929bad22e51ef9",
+          "url_path": "frames/022-quiet-please/046_000381530ms.webp"
+        },
+        {
+          "index": 47,
+          "timestamp": 389.56,
+          "file": "047_000389560ms.webp",
+          "phash": "923a32a6329355ef",
+          "url_path": "frames/022-quiet-please/047_000389560ms.webp"
+        },
+        {
+          "index": 48,
+          "timestamp": 396.13,
+          "file": "048_000396130ms.webp",
+          "phash": "9c8c0fb6224f47c7",
+          "url_path": "frames/022-quiet-please/048_000396130ms.webp"
+        },
+        {
+          "index": 49,
+          "timestamp": 403.43,
+          "file": "049_000403430ms.webp",
+          "phash": "8c8c06ce2f434f9f",
+          "url_path": "frames/022-quiet-please/049_000403430ms.webp"
+        },
+        {
+          "index": 50,
+          "timestamp": 409.27,
+          "file": "050_000409270ms.webp",
+          "phash": "8c8c06bec9464ff9",
+          "url_path": "frames/022-quiet-please/050_000409270ms.webp"
+        }
+      ]
+    }
+  ]
 }
